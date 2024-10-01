@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **jashsingh245@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tzw_i1f6YXhrkkQrywNujScRjEQid7US/view?usp=sharing](https://drive.google.com/file/d/1tzw_i1f6YXhrkkQrywNujScRjEQid7US/view?usp=sharing)
-
 - ⚡ Fun fact **I read a lot of books and watch anime.**
 
 <h3 align="left">Connect with me:</h3>
