@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="jashsingh04" /> </p>
 
-- 🔭 I’m currently working on **Software defect detection algorithms**
+- 🔭 I’m currently working as **Freelance software developer**
 
 - 🌱 I’m currently learning **Advanced machine learning and Gen Ai.**
 
-- 🔭 I’m currently working on **Social media app for teachers focused on student activites**
+- 🔭 I’m currently working on **an webdevelopement project for a startup**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jashsingh04](https://github.com/jashsingh04)
 
