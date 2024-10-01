@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced machine learning and Gen Ai.**
 
-- 🔭 I’m currently working on **an webdevelopement project for a startup**
+- 🔭 I’m currently working on **an web developement project for a startup**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jashsingh04](https://github.com/jashsingh04)
 
