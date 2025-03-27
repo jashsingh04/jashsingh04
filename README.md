@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="jashsingh04" /> </p>
 
-- 🔭 I’m currently working at Zealpact as **Software developer**
+- 🔭 I’m currently working at Zealpact as **Full-Stack Web Developer**
 
 - 🌱 I’m currently learning **Advanced machine learning and Gen Ai.**
 
